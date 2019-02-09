@@ -12,6 +12,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass', '~> 3.4'
 gem 'sassc-rails', '>= 2.0.0'
 gem 'acts_as_votable', '~> 0.12.0'
+gem 'simple_form', '~> 3.0.2'
 
 
 gem 'devise', '~> 4.5'
